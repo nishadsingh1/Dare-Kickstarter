@@ -41,3 +41,6 @@ gem 'capistrano-rbenv', github: "capistrano/rbenv"
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+# Timezone Data
+gem 'tzinfo-data'
